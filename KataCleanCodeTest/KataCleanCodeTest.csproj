@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\csharp\KataCleanCode.csproj" />
+    <ProjectReference Include="..\KataCleanCode\KataCleanCode.csproj" />
   </ItemGroup>
 
 </Project>
